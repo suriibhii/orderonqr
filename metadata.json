@@ -1,0 +1,8 @@
+{
+  "name": "TableSpace — Digital Restaurant System",
+  "description": "One connected digital restaurant operating and guest experience platform linking table sessions, personalized QR ordering, live KDS, waiter routing, table games, smart split billing, and multi-branch analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
